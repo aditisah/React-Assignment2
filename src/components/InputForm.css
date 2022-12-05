@@ -1,0 +1,29 @@
+.container{
+    margin: auto;
+    margin-top: 140px;
+    height: 270px;
+    width: 350px;
+    background-color: antiquewhite;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    margin: auto;
+    width: 200px;
+    height: 100px;
+}
+label{
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    margin: auto;
+    margin-top: 20px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 7px;
+    background-color:cadetblue;
+}
